@@ -23,3 +23,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nawabsahab16&show_icons=true&locale=en" alt="nawabsahab16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nawabsahab16&" alt="nawabsahab16" /></p>
+
+
+
+
+
+
+
+## 📊 GitHub Activity
+| ![Sameer github stats](https://github-readme-stats.vercel.app/api?username=nawabsahab16&show_icons=true&theme=radical) | ![Sameer GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nawabsahab16&theme=radical)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawabsahab16&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=nawabsahab16&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+
