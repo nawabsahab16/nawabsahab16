@@ -46,6 +46,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawabsahab16&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nawabsahab16&theme=dark)](https://git.io/streak-stats)
 
+[!GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nawabsahab16&theme=monokai)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
