@@ -49,5 +49,10 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nawabsahab16&bg_color=030203&color=ff00ee&line=b81eae&point=dc1e1e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=nawabsahab16&count_private=true&show_icons=true&theme=light" alt="Nawab's github stats"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawabsahab16&layout=compact&theme=light"/>
+
+
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
