@@ -49,6 +49,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nawabsahab16&bg_color=030203&color=ff00ee&line=b81eae&point=dc1e1e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+![overview](https://raw.githubusercontent.com/nawabsahab16/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=nawabsahab16&count_private=true&show_icons=true&theme=light" alt="Nawab's github stats"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawabsahab16&layout=compact&theme=light"/>
