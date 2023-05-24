@@ -24,8 +24,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nawabsahab16&" alt="nawabsahab16" /></p>
-
 
 
 
