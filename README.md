@@ -44,7 +44,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nawabsahab16&theme=dark)](https://git.io/streak-stats)
 
 
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=nawabsahab16&theme=dark&show_icons=true&count_private=true)
 
 
 
