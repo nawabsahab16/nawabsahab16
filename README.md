@@ -48,8 +48,6 @@
 
 
 
-
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawabsahab16&layout=compact&theme=light"/>
 
 
